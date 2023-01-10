@@ -15,7 +15,7 @@ body {
 }
 
 .main {
-    background-color: #fff;
+    background:rgba(255, 255, 255, 0.8);
     padding: 3rem;
     border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
