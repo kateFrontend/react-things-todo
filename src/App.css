@@ -8,9 +8,13 @@
 body {
     display: flex;
     justify-content: center;
+    height: 100vh;
+    /* background-image: url("https://source.unsplash.com/1600x900/?fun"); */
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-main {
+.main {
     margin-top: 5rem;
     text-align: center;
     width: 500px;
@@ -31,4 +35,11 @@ button {
 
 h3{
     margin-top: 5rem;
+}
+
+.imageUnsplash {
+    margin-top: 5rem;
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
 }
