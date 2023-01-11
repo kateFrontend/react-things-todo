@@ -2,7 +2,11 @@
 
 ## 🦉 Main information
 
-Use this simple React app if you don't know what to do and to don't get bored.
+Use this simple React app if you don't know what to do and to don't get bored.\
+Data is fetching from http://www.boredapi.com/api/activity/ \
+This app is built using React useState and useEffect Hooks. \
+Refresh page to see a new background photo from random Unsplash images. \
+Have fun! 
 
 ## ⏲️ Run project
 
