@@ -15,7 +15,7 @@ body {
 }
 
 .main {
-    background:rgba(255, 255, 255, 0.8);
+    background:rgba(255, 255, 255, 0.9);
     padding: 3rem;
     border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
@@ -32,6 +32,8 @@ body {
 
 h1{
     font-size: 5rem;
+    color: #004dff;
+    text-shadow: 0 13.36px 8.896px #c4b59d,0 -2px 1px #fff;
 }
 
 p{
@@ -47,9 +49,6 @@ h2{
     margin-top: 3rem;
 }
 
-
-
-/* CSS */
 .button-92 {
   --c: #fff;
   /* text color */
