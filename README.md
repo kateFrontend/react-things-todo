@@ -1,5 +1,9 @@
 # Things To Do React App
 
+![cover](.../../src/assets/cover.jpg)
+
+<center> View Demo <a href="https://react-things-todo.netlify.app/" target="_blank">Things To Do React App</a> </center>
+
 ## 🦉 Main information
 
 Use this simple React app if you don't know what to do and to don't get bored.\
